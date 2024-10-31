@@ -5,12 +5,21 @@ public class PlayerController : MonoBehaviour
 {
     public float speed         = 1.0f;   // Set player's movement speed.
     public float rotationSpeed = 120.0f; // Set player's rotation speed.
+    public float jumpForce     = 5.0f;
      
     private Rigidbody rb;                // Reference to player's Rigidbody.
 
     private void Start()
     {
         rb = GetComponent<Rigidbody>();  // Access player's Rigidbody.
+    }
+
+    private void Update()
+    {
+        if (Input.GetButtonDown("Jump"))
+        {
+            rb.AddForce(Vector3.up * jumpForce, ForceMode.VelocityChange);
+        }
     }
 
     private void FixedUpdate()
