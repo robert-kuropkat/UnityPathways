@@ -1,5 +1,5 @@
 # Unity Learn Pathways
-### Unity Essentials Pathway
+### [Unity Essentials Pathway](https://learn.unity.com/pathway/unity-essentials)
 
 <p float="left">
 <a href="https://learn.unity.com/mission/mission-1-editor-essentials">
@@ -29,4 +29,8 @@ Designed for anyone new to Unity, this guided learning journey is your first ste
   <li>Mission 6 is where we publish the game on <a href="https://play.unity.com/en/games/8a5b6a5c-2478-4798-bb8b-e93d9c8d6e30/unityessentials">Unity Play</a></li>
 </ul>
 
+### [Unity Junior Programmer Pathway](https://learn.unity.com/learn/pathway/junior-programmer)
 
+<p>
+Designed for anyone interested in learning to code or obtaining an entry-level Unity role, this pathway assumes a basic knowledge of Unity and has no math prerequisites. Junior Programmer prepares you to get Unity Certified so that you can demonstrate your job-readiness to employers.
+</p>
