@@ -26,5 +26,7 @@ Designed for anyone new to Unity, this guided learning journey is your first ste
   <li>Mission 3 is an audio demonstration.  You can walk through the scene using the standard mouse and WASD controls.  There is no physics on the walls or furniture so you can walk through them.</li>
   <li>Mission 4 is the programming exercise and builds a "game."    Use the standard mouse and WASD controls to vacuum up the dirt.</li>
   <li>Mission 5 is the top-down 2D version of Mission 4.</li>
-  <li>Mission 6 is where we publish the game on [Unity Play](https://play.unity.com/en/games/8a5b6a5c-2478-4798-bb8b-e93d9c8d6e30/unityessentials).</li>
+  <li>Mission 6 is where we publish the game on <a href="https://play.unity.com/en/games/8a5b6a5c-2478-4798-bb8b-e93d9c8d6e30/unityessentials">Unity Play</a></li>
 </ul>
+
+
