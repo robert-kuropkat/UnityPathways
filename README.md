@@ -14,4 +14,8 @@
 <img alt="Mission 5" width="50px" src="https://unity-connect-prd.storage.googleapis.com/20240521/learn/images/8561703a-a5f8-40ef-8330-d84bc586d630_Mission5_2DEssential.png"></a>
 </p>
 
+<p>
+Designed for anyone new to Unity, this guided learning journey is your first step toward creating confidently in the Unity Editor and bringing your visions to life. In this learning Pathway, you’ll design different rooms of a house, learning the essentials of one key skillset as you complete each room.
+</p>
+
 [Project Page](https://play.unity.com/en/games/8a5b6a5c-2478-4798-bb8b-e93d9c8d6e30/unityessentials)
