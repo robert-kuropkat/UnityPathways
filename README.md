@@ -18,4 +18,13 @@
 Designed for anyone new to Unity, this guided learning journey is your first step toward creating confidently in the Unity Editor and bringing your visions to life. In this learning Pathway, you’ll design different rooms of a house, learning the essentials of one key skillset as you complete each room.
 </p>
 
-[Project Page](https://play.unity.com/en/games/8a5b6a5c-2478-4798-bb8b-e93d9c8d6e30/unityessentials)
+[Play the Game!](https://play.unity.com/en/games/8a5b6a5c-2478-4798-bb8b-e93d9c8d6e30/unityessentials) on Unity Play.
+
+<ul>
+  <li>Mission 1 is just an editor exercise so there really is no game play.  If you enter an "invlid" code in the text box it shakes.  If you enter 2004 it displays fireworks.</li>
+  <li>Mission 2 is a physics demonstration with a bouncing ball and blocks.</li>
+  <li>Mission 3 is an audio demonstration.  You can walk through the scene using the standard mouse and WASD controls.  There is no physics on the walls or furniture so you can walk through them.</li>
+  <li>Mission 4 is the programming exercise and builds a "game."    Use the standard mouse and WASD controls to vacuum up the dirt.</li>
+  <li>Mission 5 is the top-down 2D version of Mission 4.</li>
+  <li>Mission 6 is where we publish the game on [Unity Play](https://play.unity.com/en/games/8a5b6a5c-2478-4798-bb8b-e93d9c8d6e30/unityessentials).</li>
+</ul>
