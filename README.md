@@ -13,3 +13,5 @@
 <a href="https://learn.unity.com/mission/mission-5-2d-essentials">
 <img alt="Mission 5" width="50px" src="https://unity-connect-prd.storage.googleapis.com/20240521/learn/images/8561703a-a5f8-40ef-8330-d84bc586d630_Mission5_2DEssential.png"></a>
 </p>
+
+[Project Page](https://play.unity.com/en/games/8a5b6a5c-2478-4798-bb8b-e93d9c8d6e30/unityessentials)
