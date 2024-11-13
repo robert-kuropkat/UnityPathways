@@ -1,7 +1,7 @@
 # Unity Learn Pathways
 ### <a href="https://learn.unity.com/pathway/unity-essentials"><img alt="Unity Essentials" width="50px" src="https://images.credly.com/images/2ebece18-451f-4f69-868a-9b5edac57567/image.png"></a> [Unity Essentials Pathway](https://learn.unity.com/pathway/unity-essentials)
 
-#### Mission Status
+#### Mission Status _(6/6)_
 <p float="left">
 <a href="https://learn.unity.com/mission/mission-1-editor-essentials">
 <img alt="Mission 1" width="40px" src="https://unity-connect-prd.storage.googleapis.com/20240520/learn/images/ac3403d4-67e1-4043-991b-6024a6c7cb2c_Mission1_EditorEssential.png"></a>
@@ -34,7 +34,7 @@ Designed for anyone new to Unity, this guided learning journey is your first ste
 
 ### <img alt="Unity Junior Programmer Pathway" width="50px" src="https://images.credly.com/images/03d1c2f6-6182-49bd-b5af-2ef6d28b5383/image.png">[Unity Junior Programmer Pathway](https://learn.unity.com/learn/pathway/junior-programmer)
 
-#### Mission Status
+#### Mission Status _(0/4)_
 _None started yet..._
 
 <p>
