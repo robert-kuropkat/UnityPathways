@@ -1,5 +1,5 @@
 # Unity Learn Pathways
-### [Unity Essentials Pathway](https://learn.unity.com/pathway/unity-essentials)
+### <a href="https://learn.unity.com/pathway/unity-essentials"><img alt="Unity Essentials" width="50px" src="https://images.credly.com/images/2ebece18-451f-4f69-868a-9b5edac57567/image.png"></a> [Unity Essentials Pathway](https://learn.unity.com/pathway/unity-essentials)
 
 <p float="left">
 <a href="https://learn.unity.com/mission/mission-1-editor-essentials">
@@ -12,6 +12,8 @@
 <img alt="Mission 4" width="50px" src="https://unity-connect-prd.storage.googleapis.com/20240521/learn/images/2c09924e-4c4b-4a74-bd36-b5b2b759de9d_Mission4_ProgrammingEssential.png"></a>
 <a href="https://learn.unity.com/mission/mission-5-2d-essentials">
 <img alt="Mission 5" width="50px" src="https://unity-connect-prd.storage.googleapis.com/20240521/learn/images/8561703a-a5f8-40ef-8330-d84bc586d630_Mission5_2DEssential.png"></a>
+<a href="https://learn.unity.com/mission/mission-6-publishing-essentials">
+<img alt="Mission 6" width="50px" src="https://unity-connect-prd.storage.googleapis.com/20240521/learn/images/bee70d77-814d-493d-9e6d-a8dc3ec0fdaa_Mission6_PublishingEssential.png"></a>
 </p>
 
 <p>
