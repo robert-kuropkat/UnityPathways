@@ -1,6 +1,7 @@
 # Unity Learn Pathways
 ### <a href="https://learn.unity.com/pathway/unity-essentials"><img alt="Unity Essentials" width="50px" src="https://images.credly.com/images/2ebece18-451f-4f69-868a-9b5edac57567/image.png"></a> [Unity Essentials Pathway](https://learn.unity.com/pathway/unity-essentials)
 
+#### Mission Status
 <p float="left">
 <a href="https://learn.unity.com/mission/mission-1-editor-essentials">
 <img alt="Mission 1" width="40px" src="https://unity-connect-prd.storage.googleapis.com/20240520/learn/images/ac3403d4-67e1-4043-991b-6024a6c7cb2c_Mission1_EditorEssential.png"></a>
@@ -31,7 +32,10 @@ Designed for anyone new to Unity, this guided learning journey is your first ste
   <li>Mission 6 is where we publish the game on <a href="https://play.unity.com/en/games/8a5b6a5c-2478-4798-bb8b-e93d9c8d6e30/unityessentials">Unity Play</a></li>
 </ul>
 
-### [Unity Junior Programmer Pathway](https://learn.unity.com/learn/pathway/junior-programmer)
+### <img alt="Unity Junior Programmer Pathway" width="50px" src="https://images.credly.com/images/03d1c2f6-6182-49bd-b5af-2ef6d28b5383/image.png">[Unity Junior Programmer Pathway](https://learn.unity.com/learn/pathway/junior-programmer)
+
+#### Mission Status
+_None started yet..._
 
 <p>
 Designed for anyone interested in learning to code or obtaining an entry-level Unity role, this pathway assumes a basic knowledge of Unity and has no math prerequisites. Junior Programmer prepares you to get Unity Certified so that you can demonstrate your job-readiness to employers.
