@@ -3,13 +3,13 @@ using UnityEngine;
 public class PlayerController2D : MonoBehaviour
 {
     // Public variables
-    public float speed = 5f; // The speed at which the player moves
-    public bool canMoveDiagonally = true; // Controls whether the player can move diagonally
+    public float speed             = 5f;   // The speed at which the player moves
+    public bool  canMoveDiagonally = true; // Controls whether the player can move diagonally
 
     // Private variables 
-    private Rigidbody2D rb; // Reference to the Rigidbody2D component attached to the player
-    private Vector2 movement; // Stores the direction of player movement
-    private bool isMovingHorizontally = true; // Flag to track if the player is moving horizontally
+    private Rigidbody2D rb;                          // Reference to the Rigidbody2D component attached to the player
+    private Vector2     movement;                    // Stores the direction of player movement
+    private bool        isMovingHorizontally = true; // Flag to track if the player is moving horizontally
 
     void Start()
     {
@@ -23,7 +23,7 @@ public class PlayerController2D : MonoBehaviour
     {
         // Get player input from keyboard or controller
         float horizontalInput = Input.GetAxisRaw("Horizontal");
-        float verticalInput = Input.GetAxisRaw("Vertical");
+        float verticalInput   = Input.GetAxisRaw("Vertical");
 
         // Check if diagonal movement is allowed
         if (canMoveDiagonally)

@@ -19,6 +19,7 @@ public class PlayerController : MonoBehaviour
         if (Input.GetButtonDown("Jump"))
         {
             rb.AddForce(Vector3.up * jumpForce, ForceMode.VelocityChange);
+            transform.eulerAngles = new Vector3(0, transform.eulerAngles.y, 0);  // allows the plyer to right himself if flipped
         }
     }
 
@@ -34,4 +35,5 @@ public class PlayerController : MonoBehaviour
         Quaternion turnRotation = Quaternion.Euler(0f, turn, 0f);
         rb.MoveRotation(rb.rotation * turnRotation);
     }
+
 }
