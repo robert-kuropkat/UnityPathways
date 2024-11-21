@@ -1,4 +1,0 @@
-repository "FloorIsLava@Doers_of_Stuff@cloud"
-  path "/"
-    br "/main"
-    co "/main"
