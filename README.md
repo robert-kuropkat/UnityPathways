@@ -1,5 +1,5 @@
 # Unity Learn Pathways
-### <a href="https://learn.unity.com/pathway/unity-essentials"><img alt="Unity Essentials" width="50px" src="https://images.credly.com/images/2ebece18-451f-4f69-868a-9b5edac57567/image.png"></a> [Unity Essentials Pathway](https://learn.unity.com/pathway/unity-essentials)
+### <a href="https://learn.unity.com/pathway/unity-essentials"><img alt="Unity Essentials" width="50px" src="https://cdn.sanity.io/images/fuvbjjlp/production/9d39a4e784dcfbe53bc35a96b41bfb15f9d5fbfb-340x340.png"></a> [Unity Essentials Pathway](https://learn.unity.com/pathway/unity-essentials)
 
 #### Mission Status _(6/6)_
 <p float="left">
@@ -32,7 +32,7 @@ Designed for anyone new to Unity, this guided learning journey is your first ste
   <li>Mission 6 is where we publish the game on <a href="https://play.unity.com/en/games/8a5b6a5c-2478-4798-bb8b-e93d9c8d6e30/unityessentials">Unity Play</a></li>
 </ul>
 
-### <img alt="Unity Junior Programmer Pathway" width="50px" src="https://images.credly.com/images/03d1c2f6-6182-49bd-b5af-2ef6d28b5383/image.png">[Unity Junior Programmer Pathway](https://learn.unity.com/learn/pathway/junior-programmer)
+### <img alt="Unity Junior Programmer Pathway" width="50px" src="https://cdn.sanity.io/images/fuvbjjlp/production/d451399a51ddc482d8a401b52c9e0ab22c2a1cb2-600x600.png">[Unity Junior Programmer Pathway](https://learn.unity.com/learn/pathway/junior-programmer)
 
 #### Mission Status _(0/4)_
 _None started yet..._
