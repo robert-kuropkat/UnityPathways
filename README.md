@@ -1,4 +1,5 @@
-# Unity Learn Pathways
+# <a href="https://learn.unity.com/pathway/unity-essentials"><img alt="Unity Essentials" width="50px" src="https://cdn.sanity.io/images/fuvbjjlp/production/13f82f071796522d89e2e0868b0e3ac3f05d42c0-1080x846.webp"></a> [Unity Learn Pathways](https://learn.unity.com/pathways/)
+
 ### <a href="https://learn.unity.com/pathway/unity-essentials"><img alt="Unity Essentials" width="50px" src="https://cdn.sanity.io/images/fuvbjjlp/production/9d39a4e784dcfbe53bc35a96b41bfb15f9d5fbfb-340x340.png"></a> [Unity Essentials Pathway](https://learn.unity.com/pathway/unity-essentials)
 
 #### Mission Status _(6/6)_
